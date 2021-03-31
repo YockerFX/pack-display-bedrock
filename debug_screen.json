@@ -40,7 +40,7 @@
   },
   "watermark_image": {
     "type": "image",
-    "texture": "pack_icon.png", 
+    "texture": "pack.png", 
     "layer": 3,
     "offset": [
       -60,
