@@ -27,7 +27,7 @@
   },
   "watermark": {
     "type": "label",
-    "text": "Pack Name§r\nMCBE: §b@YockerFX", ~~// "\n" = line break~~
+    "text": "Pack Name§r\nMCBE: §b@YockerFX", ~~// "\n" = line break//~~
     "font_scale_factor": 1.2, ~~// size of the font~~
     "color": [
       1.0,
