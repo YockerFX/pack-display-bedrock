@@ -1,6 +1,15 @@
 # pack-display-bedrock
 This pack display is permanently integrated in the pack and can only be deleted by removing the file.
 
+[![ingame](https://cdn.discordapp.com/attachments/586639642552565790/826751863754981376/Minecraft_31.03.2021_11_31_12.png)](https://github.com/YockerFX/pack-display-bedrock)
+
+## How to use it:
+you have to open your file explorer then go to the place where the packs are stored open the pack of your choice create a ui folder and copy the "debug_screen.json" files into the ui folder then you can edit the things like the "texture", "text" & "font_scale". 
+
+```
+resource_packs\your_pack\ui
+```
+
 ## Code:
 ```javascript
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
