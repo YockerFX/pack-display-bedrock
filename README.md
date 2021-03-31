@@ -27,8 +27,8 @@
   },
   "watermark": {
     "type": "label",
-    "text": "Pack Name§r\nMCBE: §b@YockerFX", ~~// "\n" = line break//~~
-    "font_scale_factor": 1.2, ~~// size of the font~~
+    "text": "Pack Name§r\nMCBE: §b@YockerFX", // "\n" = line break
+    "font_scale_factor": 1.2, // size of the fon
     "color": [
       1.0,
       1.0,
@@ -42,7 +42,7 @@
   },
   "watermark_image": {
     "type": "image",
-    "texture": "pack_icon.png", ~~// displayed image~~
+    "texture": "pack_icon.png", // displayed image
     "layer": 3,
     "offset": [
       -60,
