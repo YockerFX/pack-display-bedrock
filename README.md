@@ -1,4 +1,7 @@
 # pack-display-bedrock
+This pack display is permanently integrated in the pack and can only be deleted by removing the file.
+
+## Code:
 ```javascript
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 // YockerFX
